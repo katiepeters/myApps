@@ -1,3 +1,3 @@
 window.app = () => {
-    console.log('Got this awesome javascript!');
+    console.log('Got this awesome javascript!!');
 };
