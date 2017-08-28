@@ -1,7 +1,3 @@
-window.component = () => {
-    return (
-        <div>
-            Amazing component!
-        </div>
-    )
+window.app = () => {
+    console.log('Got this awesome javascript!');
 };
